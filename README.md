@@ -2,6 +2,9 @@
 
 Ejemplos de Redux en React
 
+- redux-1: Concepto básico de store
+- redux-2: Concepto de store, actions y reducers en varias carpetas y archivos
+
 ## Conceptos
 
 - Store -> Globalizar el estado, state
